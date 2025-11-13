@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm KavyaJP!
+# Hi there, I'm KavyaJP!
 
-I'm a passionate developer deeply interested in **Game Development**.  
-Currently exploring the world of **Machine Learning** 🤖 and building cool things with the **Godot Engine** 🕹️.
+I'm a passionate developer deeply interested in **Game Development**.
+Currently exploring the world of **Machine Learning** and building cool things with the **Godot Engine**.
 
 ---
 
-## 💻 What I’m Working On
+## What I’m Working On
 
 - Learning **Machine Learning** and **Godot Engine**
 - Looking to collaborate on **Game Engine projects** and **interactive tools**
@@ -30,7 +30,7 @@ Currently exploring the world of **Machine Learning** 🤖 and building cool thi
 
 ---
 
-## 😄 Pronouns & Fun Stuff
+## Pronouns & Fun Stuff
 
 - Pronouns: **He/Him**
 - Fun fact: I **love playing video games** and plan to **build the kind I wish existed**.
