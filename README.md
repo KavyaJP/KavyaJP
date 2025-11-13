@@ -13,7 +13,7 @@ Currently exploring the world of **Machine Learning** and building cool things w
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
