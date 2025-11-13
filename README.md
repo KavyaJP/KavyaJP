@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm KavyaJP!
 
-🎮 I'm a passionate developer deeply interested in **Game Development**.  
+I'm a passionate developer deeply interested in **Game Development**.  
 Currently exploring the world of **Machine Learning** 🤖 and building cool things with the **Godot Engine** 🕹️.
 
 ---
 
 ## 💻 What I’m Working On
 
-- 🌱 Learning **Machine Learning** and **Godot Engine**
-- 💞️ Looking to collaborate on **Game Engine projects** and **interactive tools**
-- 🎯 Planning to launch indie games under my dev studio: **cow2studios** 🐄
+- Learning **Machine Learning** and **Godot Engine**
+- Looking to collaborate on **Game Engine projects** and **interactive tools**
+- Planning to launch indie games under my dev studio: **cow2studios** 🐄
 
 ---
 
@@ -24,16 +24,16 @@ Currently exploring the world of **Machine Learning** 🤖 and building cool thi
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
-- ✉️ Email: [kavya31052005@gmail.com](mailto:kavya31052005@gmail.com)
+- Email: [kavya31052005@gmail.com](mailto:kavya31052005@gmail.com)
 
 ---
 
 ## 😄 Pronouns & Fun Stuff
 
 - Pronouns: **He/Him**
-- ⚡ Fun fact: I **love playing video games** and plan to **build the kind I wish existed**.
+- Fun fact: I **love playing video games** and plan to **build the kind I wish existed**.
 
 ---
 
@@ -41,4 +41,4 @@ Currently exploring the world of **Machine Learning** 🤖 and building cool thi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyajp&hide_progress=true&theme=tokyonight)
 
-Thanks for stopping by! ✨
+Thanks for stopping by!
