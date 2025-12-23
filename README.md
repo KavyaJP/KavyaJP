@@ -9,7 +9,7 @@ Currently exploring the world of **Machine Learning** and building cool things w
 
 - Learning **Machine Learning** and **Godot Engine**
 - Looking to collaborate on **Game Engine projects** and **interactive tools**
-- Planning to launch indie games under my dev studio: **cow2studios** 🐄
+- Planning to launch indie games under my dev studio: **cow2studios**
 
 ---
 
