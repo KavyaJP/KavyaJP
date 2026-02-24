@@ -1,44 +1,49 @@
-# Hi there, I'm KavyaJP!
+# Hi there, I'm KavyaJP! 👋
 
-I'm a passionate developer deeply interested in **Game Development**.
-Currently exploring the world of **Machine Learning** and building cool things with the **Godot Engine**.
-
----
-
-## What I’m Working On
-
-- Learning **Machine Learning** and **Godot Engine**
-- Looking to collaborate on **Game Engine projects** and **interactive tools**
-- Planning to launch indie games under my dev studio: **cow2studios**
+I'm a B.Tech AI & Machine Learning student at CHARUSAT and an aspiring **Indie Game Developer**. I build tools and games that bridge the gap between 2D aesthetics and 3D tech.
 
 ---
 
-## Tech Stack
+## 🚀 Current Projects
 
+- **[College Days](https://github.com/kavyajp)** – A 2.5D slice-of-life game built in Godot.
+- **Hybrid2D3D Renderer** – A custom GDExtension for Godot to achieve that high-fidelity HD-2D look.
+- **AI/ML Research** – Currently working on neural networks for predictive analytics and computer vision.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Game Dev:** 
+![Godot](https://img.shields.io/badge/-Godot_Engine_4.x-478CBF?style=flat&logo=godot-engine&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat)
+
+**AI & Software:** 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Environment:** - **Primary:** Windows (Ryzen 5 9600X | RTX 5060Ti 16GB)  
+- **Mobile:** ThinkPad (Zorin OS) via VS Code Remote Tunnels
 
 ---
 
-## How to Reach Me
+## 📊 GitHub Stats
 
-- Email: [kavya31052005@gmail.com](mailto:kavya31052005@gmail.com)
+![Kavya's GitHub Stats](https://github-readme-stats-pink-three-44.vercel.app/api?username=kavyajp&show_icons=true&theme=tokyonight&count_private=true)
 
----
-
-## Pronouns & Fun Stuff
-
-- Pronouns: **He/Him**
-- Fun fact: I **love playing video games** and plan to **build the kind I wish existed**.
+![Top Langs](https://github-readme-stats-pink-three-44.vercel.app/api/top-langs/?username=kavyajp&hide_progress=true&theme=tokyonight&layout=compact)
 
 ---
 
-![Kavya's GitHub Stats](https://github-readme-stats-pink-three-44.vercel.app/api?username=kavyajp&show_icons=true&theme=tokyonight)
+## 🔗 Get in Touch
 
-![Top Langs](https://github-readme-stats-pink-three-44.vercel.app/api/top-langs/?username=kavyajp&hide_progress=true&theme=tokyonight)
+- **Studio:** cow2studios
+- **Portfolio:** [KavyaJP](https://kavyajp.netlify.app/)
+- **Email:** [kavya31052005@gmail.com](mailto:kavya31052005@gmail.com)
 
-Thanks for stopping by!
+---
+
+> "I just want to build cool things without the corporate friction." ✌️
