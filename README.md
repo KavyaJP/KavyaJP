@@ -37,8 +37,8 @@ Currently exploring the world of **Machine Learning** and building cool things w
 
 ---
 
-![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyajp&show_icons=true&theme=tokyonight)
+![Kavya's GitHub Stats](https://github-readme-stats-pink-three-44.vercel.app/api?username=kavyajp&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyajp&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-pink-three-44.vercel.app/api/top-langs/?username=kavyajp&hide_progress=true&theme=tokyonight)
 
 Thanks for stopping by!
