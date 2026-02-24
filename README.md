@@ -6,7 +6,7 @@ I'm a B.Tech AI & Machine Learning student at CHARUSAT and an aspiring **Indie G
 
 ## 🚀 Current Projects
 
-- **[College Days](https://github.com/kavyajp)** – A 2.5D slice-of-life game built in Godot.
+- **College Days** – A 2.5D slice-of-life game built in Godot.
 - **Hybrid2D3D Renderer** – A custom GDExtension for Godot to achieve that high-fidelity HD-2D look.
 - **AI/ML Research** – Currently working on neural networks for predictive analytics and computer vision.
 
