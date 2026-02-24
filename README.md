@@ -25,9 +25,6 @@ I'm a B.Tech AI & Machine Learning student at CHARUSAT and an aspiring **Indie G
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Environment:** - **Primary:** Windows (Ryzen 5 9600X | RTX 5060Ti 16GB)  
-- **Mobile:** ThinkPad (Zorin OS) via VS Code Remote Tunnels
-
 ---
 
 ## 📊 GitHub Stats
